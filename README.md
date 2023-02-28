@@ -2,4 +2,4 @@
 
 Work from 2021-2022
 
-Find project files under "src"
+Find project files under "src/hdl/"
